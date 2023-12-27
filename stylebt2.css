@@ -1,0 +1,18 @@
+.vuong{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+}
+.tron{
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+    border-radius: 50%;
+}
+.meo{
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    border-top-right-radius: 25%;
+    border-bottom-left-radius: 25%;
+}
